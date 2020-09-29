@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>HTML Images</h2>
+<p>HTML images are defined with the img tag:</p>
+<img src="https://img.favpng.com/18/21/20/iphone-x-iphone-5s-mockup-png-favpng-UvuugiS8TaJmMXiheR7WQwqTp.jpg"
+ alt="The head and torso of a dinosaur skeleton; it has a large head with long sharp teeth"
+ width="600"
+ height="600"
+ title="A iphone from png website">
+</html>
+
